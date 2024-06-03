@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 994415a948f0ebb4ea070fb9d8d93114, type: 3}
+  m_Name: Qts
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: 1. What is PPE's main purpose?
+    replies:
+    - A) Look cool
+    - 'B) Protect you '
+    - C) Get paid more
+    - D) Identify yourself
+    correctReplyIndex: 1
+  - questionText: 2. What should you do before starting work on a construction site?
+    replies:
+    - A) Start working immediately, there's no time to waste.
+    - B) Get your induction to understand the site and safety procedures.
+    - C) Find your friends and chat with them.
+    - D) Review the daily safety briefing.
+    correctReplyIndex: 1
+  - questionText: 3. Why is it important to keep your gloves clean and free of damage?
+    replies:
+    - A) To maintain a professional appearance.
+    - B) To ensure proper dexterity and grip.
+    - C) To avoid attracting dirt and dust.
+    - 'D) All of the above. '
+    correctReplyIndex: 3
+  - questionText: '4. Safety glasses are not typically required on a construction
+      site when working with:'
+    replies:
+    - A) Power tools.
+    - B) Chemicals.
+    - C) Paperwork in a safe office area.
+    - D) Sharp objects.
+    correctReplyIndex: 2
+  - questionText: '5. When wearing a high-vis vest, it''s important to:'
+    replies:
+    - A) Wear it underneath your clothes.
+    - B) Ensure it's fully fastened for better visibility.
+    - C) Let it hang loosely for comfort.
+    - D) Only wear it in extreme weather conditions.
+    correctReplyIndex: 1
+  - questionText: '6. The primary purpose of a high-vis vest is to:'
+    replies:
+    - A) Keep you warm.
+    - B) Increase your grip and improve visibility.
+    - C) Make you look stylish.
+    - D)  Offer side protection for your eyes..
+    correctReplyIndex: 1
+  - questionText: 7. What is a critical way to reduce the risk of trips, slips, and
+      fire hazards?
+    replies:
+    - A) Leave tools and materials scattered around the work area.
+    - 'B) Keep your work area clean and tidy. '
+    - C) Ignore any safety rules that seem inconvenient.
+    - D) Ignore any warning signs you see.
+    correctReplyIndex: 1
+  - questionText: '8. Steel-toed boots are primarily designed to protect your feet
+      from:'
+    replies:
+    - A) Getting wet in puddles.
+    - B) Electrical shock.
+    - C) Insect bites.
+    - 'D) Falling objects and punctures. '
+    correctReplyIndex: 3

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eccbdf7fd181ae45be3c99628f6aeff, type: 3}
+  m_Name: Qts3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: 'What is the purpose of a safety harness on a construction site? '
+    replies:
+    - 'a) Protecting the hands '
+    - 'b) Preventing falls from heights '
+    - 'c) Shielding the eyes '
+    - "d) Absorbing\_loud\_noises"
+    correctReplyIndex: 1
+  - questionText: 'What is the primary purpose of using a wrecking ball attachment
+      on an excavator? '
+    replies:
+    - 'a) Digging trenches '
+    - 'b) Breaking concrete structures '
+    - 'c) Lifting heavy objects '
+    - "d) Leveling\_uneven\_terrain"
+    correctReplyIndex: 1
+  - questionText: 'What should an operator check before each use of the excavator
+      with a wrecking ball? '
+    replies:
+    - 'a) Tire pressure '
+    - 'b) Fuel level '
+    - 'c) Hydraulic fluid level '
+    - "d) All\_of\_the\_above"
+    correctReplyIndex: 3
+  - questionText: 'During operation, what should an operator do if they lose control
+      of the wrecking ball? '
+    replies:
+    - 'a) Panic and abandon the excavator '
+    - 'b) Attempt to catch the wrecking ball mid-air '
+    - 'c) Use emergency controls to stop movement '
+    - "d) Call a coworker\_for\_assistance"
+    correctReplyIndex: 2
+  - questionText: 'What is the minimum distance that should be maintained between
+      the wrecking ball and any overhead power lines? '
+    replies:
+    - 'a) 5 feet '
+    - 'b) 10 feet '
+    - "c) 15\_feet "
+    - "d)\_20\_feet"
+    correctReplyIndex: 2
